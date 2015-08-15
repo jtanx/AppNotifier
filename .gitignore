@@ -1,0 +1,8 @@
+packages/
+AppNotifier/bin/
+AppNotifier/amd64/
+AppNotifier/i386/
+AppNotifier/obj/
+
+*.user
+*.suo
